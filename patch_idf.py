@@ -1,5 +1,5 @@
 #/usr/bin/venv python3
-import shutil
+
 import time
 import hashlib
 import sys
